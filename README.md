@@ -1,13 +1,13 @@
 ### Current Focus:
-1. DDD / MSA
-2. [RabbitMQ](https://github.com/seongbin9786/rabbitmq_tutorial_and_explanation)
-3. Linear Algebra
-4. Basic ML,DL
+1. 마이크로서비스 패턴
+2. Hexagonal Architecture
+3. (수업) Embedded Systems ( Arduino, Raspberry Pi, Atmega )
+4. (수업) Linear Algebra
+5. (수업) Deep Learning (Neural Net.)
 
 ### Current but slow Queue:
-1. DevOps, Linux-based trouble shooting
-2. TypeScript
-3. Testing, TDD
+1. Kubernetes ( ⏸️ )
+2. DDD ( Elementary Level ) ( ✔️ )
 
 ### Old Focus:
 1. Containers - Docker / Docker Swarm ( ✔️ )
@@ -15,12 +15,16 @@
 3. SocketIO ( ✔️ )
 4. WebRTC ( ⏸️ )
 5. Project Management ( ⏸️ )
+6. [RabbitMQ](https://github.com/seongbin9786/rabbitmq_tutorial_and_explanation) ( ⏸️ )
+7. TypeScript ( ⏸️ )
 
 ### Long-term TODO
 1. 오브젝트
 2. 테라폼 업 앤 러닝
 3. CODE
 4. TCP/IP 소켓 프로그래밍
+5. 데이터베이스 인터널스
+6. Testing, TDD
 
 ### Algorithm: 😢
 
