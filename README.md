@@ -1,13 +1,11 @@
 ### Current Focus:
-1. 마이크로서비스 패턴
-2. Hexagonal Architecture
-3. (수업) Embedded Systems ( Arduino, Raspberry Pi, Atmega )
-4. (수업) Linear Algebra
-5. (수업) Deep Learning (Neural Net.)
+1. DDD
+2. 동시성
+3. Java 8
 
 ### Current but slow Queue:
 1. Kubernetes ( ⏸️ )
-2. DDD ( Elementary Level ) ( ✔️ )
+2. 마이크로서비스 패턴 ( ⏸️ )
 
 ### Old Focus:
 1. Containers - Docker / Docker Swarm ( ✔️ )
@@ -17,6 +15,7 @@
 5. Project Management ( ⏸️ )
 6. [RabbitMQ](https://github.com/seongbin9786/rabbitmq_tutorial_and_explanation) ( ⏸️ )
 7. TypeScript ( ⏸️ )
+8. Hexagonal Architecture
 
 ### Long-term TODO
 1. 오브젝트
