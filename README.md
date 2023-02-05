@@ -1,36 +1,29 @@
 ### Current Focus:
+1. 개발 속도, 집중력 관리
+2. 문서화
+3. Testing, OOP
+
+### Old Focus:
 1. DDD
 2. 동시성
 3. Java 8
+4. Kubernetes
+5. 마이크로서비스 패턴
 
-### Current but slow Queue:
-1. Kubernetes ( ⏸️ )
-2. 마이크로서비스 패턴 ( ⏸️ )
+## Open-Source Contributions
 
-### Old Focus:
-1. Containers - Docker / Docker Swarm ( ✔️ )
-2. Traefik ( ✔️ )
-3. SocketIO ( ✔️ )
-4. WebRTC ( ⏸️ )
-5. Project Management ( ⏸️ )
-6. [RabbitMQ](https://github.com/seongbin9786/rabbitmq_tutorial_and_explanation) ( ⏸️ )
-7. TypeScript ( ⏸️ )
-8. Hexagonal Architecture
+#### [Frontend] — [ts-jest]	[2022.11]
 
-### Long-term TODO
-1. 오브젝트
-2. 테라폼 업 앤 러닝
-3. CODE
-4. TCP/IP 소켓 프로그래밍
-5. 데이터베이스 인터널스
-6. Testing, TDD
+유형: 문서 오류 수정
+<br />
+성과: ts-jest 사용 시 TypeScript Alias를 설정하는 옵션의 잘못된 일부 내용을 수정
+<br />
+Link: https://github.com/kulshekhar/ts-jest/pull/3894 
 
-### Algorithm: 😢
+#### [Frontend] — [QuillJS]	[2018.03]
 
-연초에 조금 하다 말았습니다.. 그래도 무엇을 어떻게 공부할 지는 감 잡았어요 😸
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seongbin9786)](https://solved.ac/seongbin9786)
-
-### Open source contribution:
-
-[Quilljs(WYSIWYG editor)의 이미지 업로드 핸들러 코드 스니펫](https://github.com/quilljs/quill/issues/2034#issuecomment-375569799)
+유형: 문서화 보충
+<br />
+성과: Quill에서 이미지 첨부 Handler의 부족한 문서를 Issue의 comment로 제공
+<br />
+Link: https://github.com/quilljs/quill/issues/2034 
