@@ -1,14 +1,12 @@
 ## 기술
 
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seongbin9786)](https://solved.ac/seongbin9786/)
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![](http://mazassumnida.wtf/api/mini/generate_badge?boj=seongbin9786)
 
 ## 관심사
 1. 정확한 기능 구현, 단위 테스트
 2. 사용하는 기술에 대해 제대로 이해하기
 
-## 진행한 스터디
+## 스터디
 1. `[23/03/28 - 06/08]` 모던 자바스크립트 Deep Dive (1회차): [Notion](https://seongbin9786.notion.site/Deep-Dive-JavaScript-ccc03f3c377040c4aa838c0d025bfe49?pvs=4)
 2. `[23/06/19 - 07/17]` 프론트엔드 성능 최적화: [Notion](https://seongbin9786.notion.site/c30a67104beb4e06a754dc7657b1114d?pvs=4)
 3. `[23/05/29 - 10/17]` 프로그래머스/백준 문제 풀이: [Notion](https://seongbin9786.notion.site/PCCP-c5b0aee9cb3f420b82034e2f716670dd?pvs=4)
