@@ -2,11 +2,6 @@
 
 Junior Frontend engineer
 
-## Topics Focusing on
-
-- Web Frontend Testing
-- Functional Programming
-
 ## Open-source contributions
 
 #### Web Frontend-related
